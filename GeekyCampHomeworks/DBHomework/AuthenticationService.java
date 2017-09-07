@@ -1,7 +1,5 @@
 package DB;
 
-import com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory.Default;
-
 public class AuthenticationService {
 	
 	public static void authentication(String input){
